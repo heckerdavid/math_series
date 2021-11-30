@@ -1,0 +1,1 @@
+lab 02 PR: https://github.com/heckerdavid/math_series/pull/1
